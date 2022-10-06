@@ -1,5 +1,6 @@
 from fun import *
 
+
 probOut()
 packSize =int(input("\nhow many pack You want to open:-"))
 for num in range(0,packSize):
